@@ -1,7 +1,7 @@
 # Super Eraser For Mac — Desktop App For Mac OS  
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/58066/m/doyourdata-super-eraser-logo.png" alt="Super Eraser Logo">  
+<img src="https://www.doyourdata.com/images/super-eraser-mac/img-shredder.png" alt="Super Eraser Logo">  
 </div>  
 
 **Super Eraser for macOS** is a professional data erasure tool designed to permanently delete files, folders, or entire drives with no chance of recovery. 🗑️🔒  
