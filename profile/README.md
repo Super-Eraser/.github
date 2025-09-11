@@ -97,9 +97,7 @@ A: Absolutely, Super Eraser is optimized for M1/M2/M3.
 ---
 
 ## 🖼️ Preview (Screenshots)  
-
-![Super Eraser Interface](https://static.macupdate.com/screenshots/350484/m/doyourdata-super-eraser-screenshot.png)  
-*Main interface for secure data erasure.*  
+ 
 
 ![Super Eraser Process](https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/8b/13/d7/8b13d769-0826-44b9-25c8-8aaac18c9fca/pr_source.png/643x0w.jpg)  
 *Erasure process and confirmation dialog on macOS.*  
